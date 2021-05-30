@@ -10,6 +10,29 @@ class StatusScreen extends StatefulWidget {
 class _StatusScreenState extends State<StatusScreen> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return SingleChildScrollView(child: Column(
+      children: [
+        myStatusUpdate(),
+        recentUpdates(),
+        viewdStatusUpdates(),
+        mutedStatusUpdates(),
+      ],
+    ));
   }
+
+  Widget recentUpdates() {
+
+  }
+
+  Widget viewdStatusUpdates() {
+
+  }
+
+  Widget mutedStatusUpdates() {
+
+  }
+}
+
+Widget myStatusUpdate() {
+  return Container();
 }
