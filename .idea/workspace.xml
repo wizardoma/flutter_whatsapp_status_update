@@ -10,11 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ea6981a-4cfd-44b5-ba79-8aec4eee6d8a" name="Default Changelist" comment="update readme">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+    <list default="true" id="2ea6981a-4cfd-44b5-ba79-8aec4eee6d8a" name="Default Changelist" comment="bootstrap app screens">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_status_update/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_status_update/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +21,12 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Huawei_Android_10_API_29_" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="stateful_widget" />
+        <option value="Dart File" />
       </list>
     </option>
   </component>
@@ -63,6 +62,12 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Dart" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/flutter_status_update/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -73,7 +78,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622239718635</updated>
-      <workItem from="1622239720838" duration="1767000" />
+      <workItem from="1622239720838" duration="2413000" />
+      <workItem from="1622273174765" duration="1471000" />
+      <workItem from="1622366795207" duration="3147000" />
     </task>
     <task id="LOCAL-00001" summary="update readme">
       <created>1622240227073</created>
@@ -82,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622240227073</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bootstrap app screens">
+      <created>1622244813514</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622244813514</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,10 +112,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="update readme" />
+    <MESSAGE value="bootstrap app screens" />
+    <option name="LAST_COMMIT_MESSAGE" value="bootstrap app screens" />
   </component>
   <component name="WindowStateProjectService">
     <state x="274" y="9" key="#Project_Structure" timestamp="1622239904394">
@@ -124,9 +140,13 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="459" y="140" key="NewModule_or_Project.wizard/0.0.1600.860@0.0.1600.860" timestamp="1622239998398" />
-    <state x="386" y="168" key="Vcs.Push.Dialog.v2" timestamp="1622240230896">
+    <state x="386" y="168" key="Vcs.Push.Dialog.v2" timestamp="1622244815166">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="386" y="168" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1622240230896" />
+    <state x="386" y="168" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1622244815166" />
+    <state x="176" y="119" width="1235" height="649" key="new project wizard" timestamp="1622287318141">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="176" y="119" width="1235" height="649" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1622287318141" />
   </component>
 </project>
