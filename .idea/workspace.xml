@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ea6981a-4cfd-44b5-ba79-8aec4eee6d8a" name="Default Changelist" comment="add color constants">
+    <list default="true" id="2ea6981a-4cfd-44b5-ba79-8aec4eee6d8a" name="Default Changelist" comment="add theme data">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_status_update/lib/commons/themes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_status_update/lib/commons/themes.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flutter_status_update/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_status_update/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="stateful_widget" />
         <option value="Dart File" />
+        <option value="stateful_widget" />
       </list>
     </option>
   </component>
@@ -49,6 +51,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/status_update" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -80,7 +83,7 @@
       <updated>1622239718635</updated>
       <workItem from="1622239720838" duration="2413000" />
       <workItem from="1622273174765" duration="1471000" />
-      <workItem from="1622366795207" duration="3460000" />
+      <workItem from="1622366795207" duration="6019000" />
     </task>
     <task id="LOCAL-00001" summary="update readme">
       <created>1622240227073</created>
@@ -103,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622387966247</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add theme data">
+      <created>1622388281387</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622388281387</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +135,8 @@
     <MESSAGE value="update readme" />
     <MESSAGE value="bootstrap app screens" />
     <MESSAGE value="add color constants" />
-    <option name="LAST_COMMIT_MESSAGE" value="add color constants" />
+    <MESSAGE value="add theme data" />
+    <option name="LAST_COMMIT_MESSAGE" value="add theme data" />
   </component>
   <component name="WindowStateProjectService">
     <state x="274" y="9" key="#Project_Structure" timestamp="1622239904394">
@@ -144,14 +155,30 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="472" y="140" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1622240071317" />
+    <state width="1356" height="220" key="GridCell.Tab.0.bottom" timestamp="1622388831852">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1356" height="220" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1622388831852" />
+    <state width="1356" height="220" key="GridCell.Tab.0.center" timestamp="1622388831851">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1356" height="220" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1622388831851" />
+    <state width="1356" height="220" key="GridCell.Tab.0.left" timestamp="1622388831850">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1356" height="220" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1622388831850" />
+    <state width="1356" height="220" key="GridCell.Tab.0.right" timestamp="1622388831852">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1356" height="220" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1622388831852" />
     <state x="459" y="140" key="NewModule_or_Project.wizard" timestamp="1622239998398">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="459" y="140" key="NewModule_or_Project.wizard/0.0.1600.860@0.0.1600.860" timestamp="1622239998398" />
-    <state x="386" y="168" key="Vcs.Push.Dialog.v2" timestamp="1622387970020">
+    <state x="386" y="168" key="Vcs.Push.Dialog.v2" timestamp="1622388282995">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="386" y="168" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1622387970020" />
+    <state x="386" y="168" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1622388282995" />
     <state x="176" y="119" width="1235" height="649" key="new project wizard" timestamp="1622287318141">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
